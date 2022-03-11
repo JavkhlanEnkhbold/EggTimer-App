@@ -10,10 +10,9 @@ This app is a simple egg timer for different kinds of eggs: soft, medium and har
 
 This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at www.appbrewery.co
 
-##Installing
+## Installing
 
 In order to use this app, download the repo and use Xcode to install it on your device. 
-
 
 
 
